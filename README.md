@@ -6,7 +6,7 @@ Aplicación móvil desarrollada en Android Studio con Kotlin y Jetpack Compose. 
 
 ## Integrantes
 
-* Diego Sánchez
+* Diego Sánchez Linares
 
 ## Ejecución
 
